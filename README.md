@@ -1,8 +1,8 @@
 # EX NO -1 Study of basic digital IC s and verification of truth tables for different logic gates realization
-## AIM:
+# AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-## Equipments Required:
+# Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 Theory
@@ -52,7 +52,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-## Procedure
+# Procedure
 1.Create a New Project:
 
 Open Quartus and create a new project by selecting "File" > "New Project Wizard."
@@ -83,7 +83,7 @@ View the RTL diagram.
 Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
 Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
 Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform. 
-## Program:
+# Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:Divya M
@@ -102,18 +102,21 @@ RegisterNumber: 23013162
   xnor(y7,a,b);
   endmodule
 
-## Logic symbol & Truthtable:
+# Logic symbol & Truthtable:
 
     
 ![Screenshot (153)](https://github.com/DivyaMunirathnamm/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474097/71bb60cb-a769-493f-a84c-06cac2eb1962)
 
 
-## RTL realization:
+
+
+
+# RTL realization:
 
 ![Screenshot (154)](https://github.com/DivyaMunirathnamm/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474097/23839b75-d202-4eba-9d5b-f3c957396233)
 
 
-## Timing diagram:
+# Timing diagram:
 
 
 
@@ -121,6 +124,6 @@ RegisterNumber: 23013162
 
 
 
-## Result:
+# Result:
 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
