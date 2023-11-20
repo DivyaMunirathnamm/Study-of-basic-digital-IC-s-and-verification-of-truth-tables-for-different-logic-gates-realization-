@@ -111,6 +111,8 @@ RegisterNumber: 23013162
 
 
 
+
+
 # RTL realization:
 
 ![Screenshot (154)](https://github.com/DivyaMunirathnamm/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474097/23839b75-d202-4eba-9d5b-f3c957396233)
