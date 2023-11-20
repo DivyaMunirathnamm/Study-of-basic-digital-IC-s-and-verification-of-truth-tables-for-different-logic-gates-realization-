@@ -116,7 +116,9 @@ RegisterNumber: 23013162
 ## Timing diagram:
 
 
-    ![Screenshot (155)](https://github.com/DivyaMunirathnamm/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474097/ce366e5a-dbcb-4f45-bbc7-0df7bc6c6313)
+![Screenshot (108)](https://github.com/DivyaMunirathnamm/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474097/7df9b2c7-ec6e-453f-ba93-2c4b952385aa)
+
+
 
 ## Result:
 
